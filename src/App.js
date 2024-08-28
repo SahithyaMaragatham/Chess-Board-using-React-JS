@@ -1,4 +1,4 @@
-// src/App.js
+
 import React from 'react';
 import ChessBoard from './components/Chessboard';
 import './App.css';
